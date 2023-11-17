@@ -34,3 +34,9 @@ Invest in training and development programs for employees of all levels to enhan
 ## Regular Promotion Opportunities:
 
 Implement a system of regular promotions based on performance and skills acquisition.
+
+# Contributors
+* Newton Kimathi
+* Rasmo Wanyama
+* Uwayo Valentine
+* Richmond Abake
